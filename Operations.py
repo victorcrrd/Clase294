@@ -4,4 +4,5 @@ def sum(x, y):
 def multiplicacion(x, y):
     return x * y # la multiplicacion de dos numeros
 
-print(1)
+def div(x, y):
+    return x + y
